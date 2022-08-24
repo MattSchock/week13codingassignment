@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* custom CSS below */
+
+.navbarName {
+  background-color: lightblue;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.headerName {
+  float: center;
+  border: solid;
+  border-color: black;
+  display: block;
+}
+
+.formBox {
+  border:5px black;
+  box-sizing: border-box;
+  border-radius:5px;
+}
+

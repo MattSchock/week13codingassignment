@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* custom CSS below */
+
+/* .titleName {
+  background-color:red
+} */
+/* 
+.titleName {
+  background-color:red
+} */
+
+/* 
+.navbarName {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+} */

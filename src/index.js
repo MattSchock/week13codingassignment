@@ -3,10 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import TextLinkExample from './components/navbar';
+import LoginForm from './components/LoginForm';
+import NavbarComponent from './components/navbar';
+
+// import ColorSchemesExample from './components/navbar'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <NavbarComponent />
+    <LoginForm />
     <App />
   </React.StrictMode>
 );
