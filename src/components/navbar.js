@@ -1,7 +1,7 @@
-import React from 'react';
+import React from 'react';            
 
 
-
+//div that includes 4 links for navbar
 class NavbarComponent extends React.Component {
     render() {
         return (

@@ -1,11 +1,11 @@
 import React from 'react';
 
 
-
+//header and login form.
 class LoginForm extends React.Component {
     render() {
         return (
-            <div>
+            <div className="wholeLoginForm">
                 <h3 className="headerName">Login Here.
                 </h3>
                     <form>
